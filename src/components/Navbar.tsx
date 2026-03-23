@@ -21,7 +21,7 @@ export default function Navbar() {
         <div className="flex justify-between items-center h-16">
           <Link to="/" className="flex items-center space-x-2">
             <Zap className="h-8 w-8 text-blue-600" />
-            <span className="text-2xl font-bold text-gray-900">TechFlow</span>
+            <span className="text-2xl font-bold text-gray-900">Adyodha</span>
           </Link>
 
           <div className="hidden md:flex items-center space-x-8">
