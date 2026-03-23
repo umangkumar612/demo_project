@@ -137,8 +137,8 @@ export default function Contact() {
                 <Mail className="h-8 w-8 text-blue-600" />
               </div>
               <h3 className="text-xl font-semibold text-gray-900 mb-2">Email</h3>
-              <p className="text-gray-600">info@techflow.com</p>
-              <p className="text-gray-600">support@techflow.com</p>
+              <p className="text-gray-600">info@Adyodha.com</p>
+              <p className="text-gray-600">support@Adyodha.com</p>
             </div>
 
             <div className="bg-white p-8 rounded-xl shadow-md text-center hover:shadow-lg transition-shadow">
@@ -147,7 +147,7 @@ export default function Contact() {
               </div>
               <h3 className="text-xl font-semibold text-gray-900 mb-2">Phone</h3>
               <p className="text-gray-600">+1 (555) 123-4567</p>
-              <p className="text-gray-600">Mon-Fri 9am-6pm EST</p>
+              <p className="text-gray-600">Mon-Fri 7:30pm–4:30am IST</p>
             </div>
 
             <div className="bg-white p-8 rounded-xl shadow-md text-center hover:shadow-lg transition-shadow">
@@ -155,8 +155,8 @@ export default function Contact() {
                 <MapPin className="h-8 w-8 text-blue-600" />
               </div>
               <h3 className="text-xl font-semibold text-gray-900 mb-2">Office</h3>
-              <p className="text-gray-600">123 Tech Street</p>
-              <p className="text-gray-600">San Francisco, CA 94105</p>
+              <p className="text-gray-600">123 Noida Sector 63</p>
+              <p className="text-gray-600">Gautam Budha Nagar, India 201310</p>
             </div>
           </div>
 

@@ -11,7 +11,7 @@ export default function Footer() {
           <div className="space-y-4">
             <div className="flex items-center space-x-2">
               <Zap className="h-8 w-8 text-blue-500" />
-              <span className="text-2xl font-bold text-white">TechFlow</span>
+              <span className="text-2xl font-bold text-white">Adyodha</span>
             </div>
             <p className="text-sm">
               Delivering cutting-edge technology solutions for modern businesses.
@@ -54,7 +54,7 @@ export default function Footer() {
             <ul className="space-y-2">
               <li className="flex items-center space-x-2 text-sm">
                 <Mail className="h-4 w-4" />
-                <span>info@techflow.com</span>
+                <span>info@Adyodha.com</span>
               </li>
               <li className="flex items-center space-x-2 text-sm">
                 <Phone className="h-4 w-4" />
@@ -62,14 +62,14 @@ export default function Footer() {
               </li>
               <li className="flex items-center space-x-2 text-sm">
                 <MapPin className="h-4 w-4" />
-                <span>San Francisco, CA</span>
+                <span>Gautam Budha Nagar, India</span>
               </li>
             </ul>
           </div>
         </div>
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-sm">
-          <p>&copy; {currentYear} TechFlow. All rights reserved.</p>
+          <p>&copy; {currentYear} Adyodha. All rights reserved.</p>
         </div>
       </div>
     </footer>
